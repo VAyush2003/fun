@@ -1,0 +1,48 @@
+::-webkit-scrollbar-thumb{
+    background-color: limegreen;
+}
+#answer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    display: block;
+    text-align: center;
+    text-decoration: underline 2px solid;
+}
+body{
+    background-color: black;
+}
+.testbut{
+    color: black;
+    background-color: lawngreen;
+    box-shadow: 10px 10px 1px white;
+    width: 200px;
+    font-size: 2em;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all ease .8s;
+}
+.testbut:hover{
+    color: lawngreen;
+    background-color: white;
+    box-shadow: 10px 10px 1px lawngreen;
+}
+h1{
+    color: white;
+    text-transform:uppercase;
+    font-family: Arial;
+    font-weight: 500;
+    text-align: center;
+}
+.main{
+    background-color:coral;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+
+}
+h2{
+    color: white;
+    text-align: center;
+}
